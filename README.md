@@ -1,3 +1,4 @@
+![logo](https://github.com/Vikhyat-agrawal/Vikhyat-agrawal/blob/main/Layer%201%20(1).png)
 <h1 align="center">Hi 👋, I'm Vikhyat Agrawal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/coding">
