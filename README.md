@@ -1,7 +1,7 @@
 <!-- ================= Banner ================= -->
 
 <p align="center">
-  <img src="./banner-vikhyat-agrawal.png" alt="Vikhyat Agrawal Banner"/>
+  <img src="./Vikhyat agrawal.png" alt="Vikhyat Agrawal "/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vikhyat Agrawal</h1>
